@@ -1,8 +1,5 @@
 ## Bem-vindo pessoa 👋
 
-<!--
-**vixkly/vixkly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Meu nome é Aline, tenho 22 anos e tento me encontrar no mundo da programação. Sou estagiaria em uma empresa maravilhosa (não querendo me gabar) rsrs
 
 - 🌱 Meus estudos são direcionadis a **_Data Sciencie_** e como sou iniciante na programação estudo nosso querido **Java**
