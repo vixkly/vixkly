@@ -12,6 +12,6 @@ Meu nome é Aline, tenho 22 anos e tento me encontrar no mundo da programação.
 
 - ⚡ Fun fact:  
 ° Antes de estudar programação, fiz cursos de processos de produção, um semestre de Engenharia;  
-° Por ter estudado Engenharia e Processos de Produção sei tudo sobre **gestão** lê-se *lean*, *kanban*, *PMBOK*;  
+° Por ter estudado Engenharia e Processos de Produção sei algumas coisas sobre **gestão** lê-se *lean*, *kanban*, *PMBOK*;  
 ° Sei desenhar plantas elétricas e fazer instalações hehe;  
 ° Sou a guru de Excel (Outras ferramentas do Office) na minha área atual kkkk  
